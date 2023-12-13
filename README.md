@@ -20,4 +20,8 @@
 
 7：审核纸条拒绝时，新增快捷输入。
 
+2.0代码
+
+![image](https://github.com/quyingyong/manghe2/assets/12825648/ff8cf8b2-4ee5-49d4-9a15-3f9d23b37bce)
+
 ### 提问请加微信mq0x01
