@@ -22,6 +22,7 @@
 
 2.0代码
 
-![image](https://github.com/quyingyong/manghe2/assets/12825648/ff8cf8b2-4ee5-49d4-9a15-3f9d23b37bce)
+![image](https://github.com/quyingyong/manghe2/assets/12825648/f436ebb7-0881-4da0-abc8-71a5c06e073d)
+
 
 ### 提问请加微信mq0x01
